@@ -1,0 +1,8 @@
+github.com/gofrs/uuid v3.1.0+incompatible h1:q2rtkjaKT4YEr6E1kamy0Ha4RtepWlQBedyHx0uzKwA=
+github.com/gofrs/uuid v3.1.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/gorilla/websocket v1.2.0 h1:VJtLvh6VQym50czpZzx07z/kw9EgAxI3x1ZB8taTMQQ=
+github.com/gorilla/websocket v1.2.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/satori/go.uuid v1.2.0 h1:0uYX9dsZ2yD7q2RtLRtPSdGDWzjeM3TbMJP9utgA0ww=
+github.com/satori/go.uuid v1.2.0/go.mod h1:dA0hQrYB0VpLJoorglMZABFdXlWrHn1NEOzdhQKdks0=
+github.com/schwartzmx/gremgo-neptune v0.0.0-20180713215459-6db41a713300 h1:bqfjwfkExUj8CwGfOoARFFzFCqrX6uy35fyct1gjDpM=
+github.com/schwartzmx/gremgo-neptune v0.0.0-20180713215459-6db41a713300/go.mod h1:Vof0OUrM1c1P6Q2dQk0wpoNGU9CmaR4MchSq/ouq48M=

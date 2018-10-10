@@ -5,7 +5,7 @@ import (
 
 	"encoding/base64"
 
-	"github.com/satori/go.uuid"
+	"github.com/gofrs/uuid"
 )
 
 type requester interface {
