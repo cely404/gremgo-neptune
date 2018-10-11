@@ -1,11 +1,11 @@
 package gremgo
 
 import (
-	"encoding/json"
+    "encoding/json"
 
-	"encoding/base64"
+    "encoding/base64"
 
-	"github.com/gofrs/uuid"
+    "github.com/gofrs/uuid/v3"
 )
 
 type requester interface {
